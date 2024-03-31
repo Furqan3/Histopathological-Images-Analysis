@@ -1,6 +1,6 @@
 # Image Segmentation and Classification
 
-This project implements image segmentation and classification using a U-Net model and a custom classification model. The goal is to accurately segment images into different classes and classify them accordingly.
+This project implements image segmentation and classification using a U-Net model and a custom classification model. The goal is to accurately segment images into different classes and classify them accordingly. 
 
 ## Project Overview
 
